@@ -1,0 +1,4 @@
+[global]
+some value
+$$PROCESS_DT = 202204
+new line
